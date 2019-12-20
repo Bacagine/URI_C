@@ -16,12 +16,12 @@
 #include <stdio.h> // -> Biblioteca padrão de entrada e saída
 
 int main(void){
-	int num1;
-	int num2;
-	scanf("%d %d", &num1, &num2);
-	int soma = num1 + num2;
-	
-	printf("X = %d\n", soma);
-	
-	return 0;
+    int num1;
+    int num2;
+    scanf("%d %d", &num1, &num2);
+    int soma = num1 + num2;
+    
+    printf("X = %d\n", soma);
+    
+    return 0;
 }

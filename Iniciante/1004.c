@@ -15,7 +15,9 @@
 int main(void){
 	int num1, num2;
 	scanf("%d %d", &num1, &num2);
+	
 	int prod = num1 * num2;
+
 	printf("PROD = %d\n", prod);
 	
 	return 0;
